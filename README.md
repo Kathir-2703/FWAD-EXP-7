@@ -695,10 +695,10 @@ Publish the website in the given URL.
 
 ```
 ## OUTPUT:
-![Alt text](image-5.png)
-![Alt text](image-6.png)
-![Alt text](image-7.png)
-![Alt text](image-8.png)
-![Alt text](image-9.png)
+![image-1](https://github.com/Kathir-2703/FWAD-EXP-7/assets/64436376/d33cd18c-085a-4b5c-966e-a3a715610cf6)
+![image-2](https://github.com/Kathir-2703/FWAD-EXP-7/assets/64436376/3a924c27-dd77-438e-a9ae-c96a39f6fc05)
+![image-3](https://github.com/Kathir-2703/FWAD-EXP-7/assets/64436376/48624ed5-6c04-45b7-b4ba-55d2741f99f0)
+![image-4](https://github.com/Kathir-2703/FWAD-EXP-7/assets/64436376/f013a3b1-26f1-4c9b-a8fa-6f13a7bff8c3)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
