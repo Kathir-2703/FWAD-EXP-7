@@ -699,6 +699,7 @@ Publish the website in the given URL.
 ![image-2](https://github.com/Kathir-2703/FWAD-EXP-7/assets/64436376/3a924c27-dd77-438e-a9ae-c96a39f6fc05)
 ![image-3](https://github.com/Kathir-2703/FWAD-EXP-7/assets/64436376/48624ed5-6c04-45b7-b4ba-55d2741f99f0)
 ![image-4](https://github.com/Kathir-2703/FWAD-EXP-7/assets/64436376/f013a3b1-26f1-4c9b-a8fa-6f13a7bff8c3)
+![image-9](https://github.com/Kathir-2703/FWAD-EXP-7/assets/64436376/25952141-ee7f-4ae9-a0d8-f926657b8979)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
